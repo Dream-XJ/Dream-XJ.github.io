@@ -1,3 +1,6 @@
-## Welcome To Dream-XJ.github.io
+## BatchDev 更新日志
 
-跳转到BatchDev
+> 0.1.0 Beta
+
+- 初次发布 Beta
+
